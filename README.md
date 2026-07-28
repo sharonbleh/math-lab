@@ -15,7 +15,7 @@ This repository serves as the official submission for Mathematics Lab experiment
 
 ## Student Information
 
-- **Name:**Sharon Thomas
+- **Name:** Sharon Thomas
 - **Roll Number:** 61
 - **Department:** EC
 - **Institution:** Saintgits College of Engineering 
